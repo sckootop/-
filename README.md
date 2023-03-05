@@ -12,7 +12,7 @@
 ![天赋界面](https://user-images.githubusercontent.com/88623915/222966253-8685ce5a-51bb-4ec1-8c92-22f863c10341.png)
 
 #整体概貌
-![Uploading 屏幕截图 2023-03-05 222703.png…]()
+![地图](https://user-images.githubusercontent.com/88623915/222966732-4cf26f2d-8652-4289-9f79-93c8325b1fef.png)
 
 #菜单界面
 ![主界面](https://user-images.githubusercontent.com/88623915/222966291-13001eb5-cb12-41a4-9280-8a22470cc839.png)
